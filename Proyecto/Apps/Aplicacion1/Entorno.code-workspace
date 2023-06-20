@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Entorno",
+			"path": "../../../.."
+		},
+		{
+			"name": "lab05",
+			"path": "../../../../../../project01/lab05"
+		}
+	],
+	"settings": {}
+}
