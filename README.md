@@ -1,5 +1,5 @@
 Laboratorio 05 
-Tema: Django 
+Tema: Django  
 Profesor 	Escuela 	Asignatura
 Prof. Anibal Sardon
 a.sardon.unsa@gmail.com	Escuela Profesional de 
